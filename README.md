@@ -37,7 +37,10 @@ El algoritmo anteriormente mencionado recibe como entrada datos de caracteres pa
 
 ### Salida
 El algoritmo emite los siguientes datos como resultado de los datos primeramente ingresados: *rol, cédula, valor a pagar y el código del producto.*
+
+### Cálculo
+Para darle solución al problema se 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY0NDQxMjUsLTExMTQyODEzODNdfQ
-==
+eyJoaXN0b3J5IjpbOTEyNTUxMzg2LC0yMTI2NDQ0MTI1LC0xMT
+E0MjgxMzgzXX0=
 -->
