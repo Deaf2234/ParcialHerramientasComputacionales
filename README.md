@@ -6,6 +6,10 @@ El problema es el siguiente:
 - Pida por teclado la siguiente información para el cliente: cédula y rol: profesor o estudiante.
 - Registrar el producto a comprar: código producto, cantidad de unidades y precio del producto.
 - Los descuentos están dados de la siguiente forma: los estudiantes tienen un 40% de descuento mientras que los profesores tienen un 20% de descuento.
+
+Al final el procedimiento por cada cliente debera imprimir el valor a pagar por sus productos de la forma: "El Rol con cédula Numero, debe pagar Valor por el producto Código".
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjc1ODI5M119
+eyJoaXN0b3J5IjpbLTExMTQyODEzODNdfQ==
 -->
