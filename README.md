@@ -36,7 +36,8 @@ Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora
 El algoritmo anteriormente mencionado recibe como entrada datos de caracteres para preguntar el rol de cada cliente y también recibe datos de números para la cédula del cliente, la cantidad de productos que va a comprar, el precio por producto y el código del producto.
 
 ### Salida
-El algoritmo emite los siguientes datos como resultado de los datos primeramente ingresados: *rol, cédula, *
+El algoritmo emite los siguientes datos como resultado de los datos primeramente ingresados: *rol, cédula, valor a pagar y el código del producto.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2Mzg4OTEzLC0xMTE0MjgxMzgzXX0=
+eyJoaXN0b3J5IjpbLTIxMjY0NDQxMjUsLTExMTQyODEzODNdfQ
+==
 -->
