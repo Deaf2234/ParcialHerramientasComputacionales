@@ -11,8 +11,10 @@ Al final el procedimiento por cada cliente debería imprimir el valor a pagar po
 
 ### Modelo computacional
 
-Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora* que calcuque al final da como un resultado
+Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora* inteligente que calcula descuentos especiales de acuerdo al rol de los clientes de la mercatería y que al final da como resultado la factura de compra: 
+
+    enter code here
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgzMjE3NDgsLTExMTQyODEzODNdfQ
-==
+eyJoaXN0b3J5IjpbMTM2NTczNTUzMCwtMTExNDI4MTM4M119
 -->
