@@ -39,9 +39,16 @@ El algoritmo anteriormente mencionado recibe como entrada datos de caracteres pa
 ### Salida
 El algoritmo emite los siguientes datos como resultado de los datos primeramente ingresados: *rol, cédula, valor a pagar y el código del producto.*
 
-### Cálculo
-Para darle solución al problema se calculó primeramente el valor total de acuerdo a los datos ingresados como cantidad y precio por producto; luego de esto se procedió a
+### Solución
+Para darle solución al problema se calculó primeramente el 
+
+## valor total
+
+ de acuerdo a los datos ingresados como cantidad y precio por producto; luego de esto se procedió a crear dos condiciones planteadas de la siguiente manera:
+
+ 1. Si
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjA1Nzc5OSwtMjEyNjQ0NDEyNSwtMT
-ExNDI4MTM4M119
+eyJoaXN0b3J5IjpbLTE4NTAwNzY3MjgsLTIxMjY0NDQxMjUsLT
+ExMTQyODEzODNdfQ==
 -->
