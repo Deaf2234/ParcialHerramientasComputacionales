@@ -40,15 +40,11 @@ El algoritmo anteriormente mencionado recibe como entrada datos de caracteres pa
 El algoritmo emite los siguientes datos como resultado de los datos primeramente ingresados: *rol, cédula, valor a pagar y el código del producto.*
 
 ### Solución
-Para darle solución al problema se calculó primeramente el 
+Para darle solución al problema se calculó primeramente el *valor total* de acuerdo a los datos ingresados como *cantidad* y *precio* por producto; luego de esto se procedió a crear dos condiciones planteadas de la siguiente manera:
 
-## valor total
-
- de acuerdo a los datos ingresados como cantidad y precio por producto; luego de esto se procedió a crear dos condiciones planteadas de la siguiente manera:
-
- 1. Si
+ 1. Si el *rol* ingresado es igual a "profesor" entonces al valor total de su compra 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAwNzY3MjgsLTIxMjY0NDQxMjUsLT
-ExMTQyODEzODNdfQ==
+eyJoaXN0b3J5IjpbLTUzNzA0OTQ3MCwtMjEyNjQ0NDEyNSwtMT
+ExNDI4MTM4M119
 -->
