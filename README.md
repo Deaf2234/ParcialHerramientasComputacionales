@@ -46,9 +46,10 @@ Para darle solución al problema se calculó primeramente el *valor total* de ac
 
  2. Si el *rol* ingresado es igual a "estudiantes" entonces al valor total de su compra se le aplicará un descuento del 40% como lo indican las condiciones del problema, para calcular dicho descuento se multiplica el valor total ya obtenido por 40 y luego se realiza una división entera por 100; Por último se imprime por pantalla la **Salida** mencionada en la sección anterior.
 
-
+### Errores
+Dentro del repositorio se encuentra un archivo específico hablando de los errores presentados y los que se puedan presentar; además d
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDU3NTk1ODEsLTIxMjY0NDQxMjUsLT
-ExMTQyODEzODNdfQ==
+eyJoaXN0b3J5IjpbLTU1MTkzOTE2NywtMjEyNjQ0NDEyNSwtMT
+ExNDI4MTM4M119
 -->
