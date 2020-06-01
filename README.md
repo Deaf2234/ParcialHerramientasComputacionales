@@ -11,7 +11,8 @@ Al final el procedimiento por cada cliente debería imprimir el valor a pagar po
 
 ### Modelo computacional
 
-Lo resuelve 
+Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora* que calcuque al final da como un resultado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNzI0Nzc1LC0xMTE0MjgxMzgzXX0=
+eyJoaXN0b3J5IjpbLTIwODgzMjE3NDgsLTExMTQyODEzODNdfQ
+==
 -->
