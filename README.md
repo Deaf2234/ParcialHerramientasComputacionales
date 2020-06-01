@@ -42,9 +42,9 @@ El algoritmo emite los siguientes datos como resultado de los datos primeramente
 ### Solución
 Para darle solución al problema se calculó primeramente el *valor total* de acuerdo a los datos ingresados como *cantidad* y *precio* por producto; luego de esto se procedió a crear dos condiciones planteadas de la siguiente manera:
 
- 1. Si el *rol* ingresado es igual a "profesor" entonces al valor total de su compra 
+ 1. Si el *rol* ingresado es igual a "profesor" entonces al valor total de su compra se le aplicará un descuento del 20% como lo indican las condiciones del problema; para calcular dicho descuento 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzA0OTQ3MCwtMjEyNjQ0NDEyNSwtMT
+eyJoaXN0b3J5IjpbMTg5NTU3NTg3NiwtMjEyNjQ0NDEyNSwtMT
 ExNDI4MTM4M119
 -->
