@@ -31,6 +31,7 @@ Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora
         print(f"El {rol} con Cédula {cedula} debe pagar ${valor_total} por el producto {producto}")
         
     print("-----------------------------------------------------------------------------")
+  Este código se encuentra de
 
 ### Entrada
 El algoritmo anteriormente mencionado recibe como entrada datos de caracteres para preguntar el rol de cada cliente y también recibe datos de números para la cédula del cliente, la cantidad de productos que va a comprar, el precio por producto y el código del producto.
@@ -39,8 +40,8 @@ El algoritmo anteriormente mencionado recibe como entrada datos de caracteres pa
 El algoritmo emite los siguientes datos como resultado de los datos primeramente ingresados: *rol, cédula, valor a pagar y el código del producto.*
 
 ### Cálculo
-Para darle solución al problema se 
+Para darle solución al problema se calculó primeramente el valor total de acuerdo a los datos ingresados como 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNTUxMzg2LC0yMTI2NDQ0MTI1LC0xMT
-E0MjgxMzgzXX0=
+eyJoaXN0b3J5IjpbMTc1Njg1NjI1OCwtMjEyNjQ0NDEyNSwtMT
+ExNDI4MTM4M119
 -->
