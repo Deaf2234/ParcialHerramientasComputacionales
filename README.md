@@ -33,7 +33,7 @@ Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora
     print("-----------------------------------------------------------------------------")
 
 ### Entrada
-El algoritmo anteriormente mencionado recibe como entrado tr
+El algoritmo anteriormente mencionado recibe como entrada datos de caracteres para preguntar el rol de cada cliente y también recibe datos de números para la cédula del cliente, la cantidad de productos que va a comprar, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzMyMzc4LC0xMTE0MjgxMzgzXX0=
+eyJoaXN0b3J5IjpbOTkyMzgwNTA0LC0xMTE0MjgxMzgzXX0=
 -->
