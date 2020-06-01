@@ -49,9 +49,9 @@ Para darle solución al problema se calculó primeramente el *valor total* de ac
 ### Errores
 Dentro del repositorio se encuentra un archivo específico hablando detalladamente de los errores presentados y los que se puedan presentar; además de eso se presenta las estrategias utilizadas para resolver los problemas presentada y como sugerencia para darle solución a los posibles errores que se puedan presentar.
 
-Para acceder 
+Para acceder al archivo de **Errores y estrategias** da click [aqui.](https://github.com/Deaf2234/ParcialHerramientasComputacionales/blob/master/Errores%20y%20estrategias.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTE5MTEyOCwtMjEyNjQ0NDEyNSwtMT
-ExNDI4MTM4M119
+eyJoaXN0b3J5IjpbLTE5NjEyNzQ5NDAsLTIxMjY0NDQxMjUsLT
+ExMTQyODEzODNdfQ==
 -->
