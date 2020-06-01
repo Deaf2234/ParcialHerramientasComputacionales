@@ -49,9 +49,9 @@ Para darle solución al problema se calculó primeramente el *valor total* de ac
 ### Errores
 Dentro del repositorio se encuentra un archivo específico hablando detalladamente de los errores presentados y los que se puedan presentar; además de eso se presenta las estrategias utilizadas para resolver los problemas presentada y como sugerencia para darle solución a los posibles errores que se puedan presentar.
 
-
+Para acceder 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMTgzMDI5LC0yMTI2NDQ0MTI1LC0xMT
-E0MjgxMzgzXX0=
+eyJoaXN0b3J5IjpbLTg5NTE5MTEyOCwtMjEyNjQ0NDEyNSwtMT
+ExNDI4MTM4M119
 -->
