@@ -31,7 +31,7 @@ Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora
         print(f"El {rol} con Cédula {cedula} debe pagar ${valor_total} por el producto {producto}")
         
     print("-----------------------------------------------------------------------------")
-  Este código se encuentra de
+  Este código se encuentra dentro del repositorio con el nombre de Mercatería.py ya que fue desarrollado en el lenguaje de programación Python y se puede ingresar dando click 
 
 ### Entrada
 El algoritmo anteriormente mencionado recibe como entrada datos de caracteres para preguntar el rol de cada cliente y también recibe datos de números para la cédula del cliente, la cantidad de productos que va a comprar, el precio por producto y el código del producto.
@@ -42,6 +42,6 @@ El algoritmo emite los siguientes datos como resultado de los datos primeramente
 ### Cálculo
 Para darle solución al problema se calculó primeramente el valor total de acuerdo a los datos ingresados como 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Njg1NjI1OCwtMjEyNjQ0NDEyNSwtMT
-ExNDI4MTM4M119
+eyJoaXN0b3J5IjpbLTE1Nzk4ODI0NjQsLTIxMjY0NDQxMjUsLT
+ExMTQyODEzODNdfQ==
 -->
