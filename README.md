@@ -13,8 +13,27 @@ Al final el procedimiento por cada cliente debería imprimir el valor a pagar po
 
 Lo resuelve el siguiente algoritmo que hace las veces  de una *caja registradora* inteligente que calcula descuentos especiales de acuerdo al rol de los clientes de la mercatería y que al final da como resultado la factura de compra: 
 
-    enter code here
+    while True:
+    cedula = int(input("Digite la cédula: "))
+    rol = input("¿Profesor o Estudiante?: ")
+    producto = int(input("Código del producto: "))
+    cantidad = int(input("¿Cantidad de unidades?: "))
+    precio = int(input("Precio: "))
+    valor_total = cantidad * precio
+    if rol == 'profesor':
+        desc_profe = (valor_total * 20)//100
+        valor_total = valor_total - desc_profe
+        print(f"El {rol} con Cédula {cedula} debe pagar ${valor_total} por el producto {producto}")
 
+    if rol == 'estudiante':
+        desc_estudiante = (valor_total * 40)// 100
+        valor_total = valor_total - desc_estudiante
+        print(f"El {rol} con Cédula {cedula} debe pagar ${valor_total} por el producto {producto}")
+        
+    print("-----------------------------------------------------------------------------")
+
+### Entrada
+El algoritmo anteriormente mencionado recibe como entrado tr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTczNTUzMCwtMTExNDI4MTM4M119
+eyJoaXN0b3J5IjpbMTQ5NzMyMzc4LC0xMTE0MjgxMzgzXX0=
 -->
