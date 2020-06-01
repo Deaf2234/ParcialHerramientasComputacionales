@@ -21,11 +21,11 @@ Puede cambiar el nombre del archivo actual haciendo clic en el nombre del archiv
 
 ## Eliminar un archivo
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+Puede eliminar el archivo actual haciendo clic en el botón ** Eliminar ** en el explorador de archivos. El archivo se mueve a la carpeta ** Papelera ** y se elimina automáticamente después de 7 días de inactividad.
 
-## Export a file
+## Exportar un archivo
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Puede exportar el archivo actual haciendo clic en ** Exportar una discoteca ** en el menú. Puede optar por exportar el archivo como Markdown simple, como HTML usando una plantilla de Manillares o como PDF.
 
 
 # Synchronization
@@ -120,27 +120,27 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-`` `
+` `  `
  secuencia de sirena Diagrama 
 Alice - >> Bob: Hola Bob, ¿cómo estás? 
 Bob - >> John: ¿Y tú, John? 
 Bob - x Alice: Estoy bien, gracias! 
 Bob-x John: Estoy bien, gracias! 
-Nota a la derecha de John: Bob piensa mucho <br/> mucho tiempo, tanto <br/> que el texto <br/> no cabe en una fila. Bob -> Alice: Consultando con John ... Alice-> John: Sí ... John, ¿cómo estás? `` `
+Nota a la derecha de John: Bob piensa mucho <br/> mucho tiempo, tanto <br/> que el texto <br/> no cabe en una fila. Bob -> Alice: Consultando con John ... Alice-> John: Sí ... John, ¿cómo estás? ` ` `
 
 
 
 
 
-Y esto producirá un diagrama de flujo:
+Y esto produce un diagrama de flujo:
 
-`` `
+` `  `
  gráfico de sirena LR 
 A [Rect. Cuadrada] - Texto de enlace -> B ((Círculo)) 
 A -> C (Rect. Redonda) 
 B -> D {Rombo} 
-C -> D` ``
+C -> D `  ` `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgwMTAxNjZdfQ==
+eyJoaXN0b3J5IjpbOTM3Mjg5ODE5XX0=
 -->
