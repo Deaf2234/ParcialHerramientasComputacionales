@@ -11,7 +11,7 @@ Al final el procedimiento por cada cliente debería imprimir el valor a pagar po
 
 ### Modelo computacional
 
-
+Lo resuelve 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1ODI5NzU5LC0xMTE0MjgxMzgzXX0=
+eyJoaXN0b3J5IjpbMzgyNzI0Nzc1LC0xMTE0MjgxMzgzXX0=
 -->
