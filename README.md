@@ -42,9 +42,13 @@ El algoritmo emite los siguientes datos como resultado de los datos primeramente
 ### Solución
 Para darle solución al problema se calculó primeramente el *valor total* de acuerdo a los datos ingresados como *cantidad* y *precio* por producto; luego de esto se procedió a crear dos condiciones planteadas de la siguiente manera:
 
- 1. Si el *rol* ingresado es igual a "profesor" entonces al valor total de su compra se le aplicará un descuento del 20% como lo indican las condiciones del problema, para calcular dicho descuento se multiplica el valor total ya obtenido por 20 y luego se realiza una división entera por 100; Por último se imprime por pantalla la Salida mencionada en la sección anterior.
+ 1. Si el *rol* ingresado es igual a "profesor" entonces al valor total de su compra se le aplicará un descuento del 20% como lo indican las condiciones del problema, para calcular dicho descuento se multiplica el valor total ya obtenido por 20 y luego se realiza una división entera por 100; Por último se imprime por pantalla la **Salida** mencionada en la sección anterior.
+
+ 2. Si el *rol* ingresado es igual a "estudiantes" entonces al valor total de su compra se le aplicará un descuento del 40% como lo indican las condiciones del problema, para calcular dicho descuento se multiplica el valor total ya obtenido por 40 y luego se realiza una división entera por 100; Por último se imprime por pantalla la **Salida** mencionada en la sección anterior.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTczMDc1MCwtMjEyNjQ0NDEyNSwtMT
-ExNDI4MTM4M119
+eyJoaXN0b3J5IjpbLTE2NDU3NTk1ODEsLTIxMjY0NDQxMjUsLT
+ExMTQyODEzODNdfQ==
 -->
